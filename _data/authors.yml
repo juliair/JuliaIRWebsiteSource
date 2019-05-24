@@ -1,12 +1,8 @@
-- name: نام و نام خانوادگی نویسنده
-  mail: author1@gmail.com
-  github: #
-  desc: توضیحاتی اندک در مورد نویسنده اینجا نوشته می شود
-- name: نام و نام خانوادگی نویسنده
-  mail: author1@gmail.com
-  github: #
-  desc: توضیحاتی اندک در مورد نویسنده اینجا نوشته می شود
-- name: نام و نام خانوادگی نویسنده
-  mail: author1@gmail.com
-  github: #
-  desc: توضیحاتی اندک در مورد نویسنده اینجا نوشته می شود
+- name: امیرعباس اسدی
+  mail: amir137825@gmail.com
+  github: https://github.com/amirabbasasadi
+  desc: دانشجوی کارشناسی مهندسی کامپیوتر علاقمند به بهینه سازی و یادگیری ماشین
+- name: امیرحسین بابائیان
+  mail: amirhosseinbabaeayan@gmail.com
+  github: https://github.com/AmirHosseinBabaeayan
+  desc: دانشجوی کارشناسی مهندسی کامپیوتر دانشگاه بوعلی سینا
